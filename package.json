@@ -1,0 +1,25 @@
+{
+  "name": "breal-will",
+  "version": "1.0.0",
+  "description": "breal test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuker16/brealtime-test.git"
+  },
+  "keywords": [
+    "breal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryuker16/brealtime-test/issues"
+  },
+  "homepage": "https://github.com/ryuker16/brealtime-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
